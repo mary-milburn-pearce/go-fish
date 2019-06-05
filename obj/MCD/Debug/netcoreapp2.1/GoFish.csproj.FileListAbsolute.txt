@@ -1,0 +1,11 @@
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.csprojAssemblyReference.cache
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.csproj.CoreCompileInputs.cache
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.AssemblyInfoInputs.cache
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.AssemblyInfo.cs
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\bin\MCD\Debug\netcoreapp2.1\GoFish.deps.json
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\bin\MCD\Debug\netcoreapp2.1\GoFish.runtimeconfig.json
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\bin\MCD\Debug\netcoreapp2.1\GoFish.runtimeconfig.dev.json
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\bin\MCD\Debug\netcoreapp2.1\GoFish.dll
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\bin\MCD\Debug\netcoreapp2.1\GoFish.pdb
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.dll
+C:\Users\Mary Milburn\Desktop\Code\CSharp\GoFish\obj\MCD\Debug\netcoreapp2.1\GoFish.pdb
